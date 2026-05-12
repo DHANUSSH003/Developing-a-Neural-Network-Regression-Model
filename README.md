@@ -44,9 +44,9 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name:
+### Name:Dhanussh Elango
 
-### Register Number:
+### Register Number:212224040069
 
 ```python
 import torch
